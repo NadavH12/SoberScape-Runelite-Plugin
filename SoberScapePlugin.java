@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.aaaSoberScape;
+package net.runelite.client.plugins.SoberScape;
 
 import com.google.common.collect.ImmutableList;
 import com.google.inject.Provides;
