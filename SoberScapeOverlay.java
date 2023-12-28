@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.aaaSoberScape;
+package net.runelite.client.plugins.SoberScape;
 
 import java.awt.*;
 import javax.inject.Inject;
